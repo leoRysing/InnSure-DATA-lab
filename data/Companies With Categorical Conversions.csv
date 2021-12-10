@@ -26,11 +26,11 @@ Cleveland Clinic Main Campus ,0,1998,0,6,State Oil Academy,200,Computer Science,
 Novant Health Forsyth Medical Center,2,2000,1,3,Appalachian State University,275,NaN,3,1,8,Information Security,2,Information Assurance,2,2,2,1,Virginia Tech,2
 Mount Auburn Hospital ,1,1978,0,16,Kingston College,85,Electronics ,1,0.5,4,Healthcare Information Technology,1,EMR,5,2,24,0,University of Vermont ,2
 UF Health ,2,2000,1,10,University of Florida,48,Decision and Information Sciences,1,0.5,5,Epic Systems,7,NaN,7,2,9,1,University of Florida,2
-"University Hospital (Ann Arbor, Mich.) ",2,2021,1,5,Washington University in St. Louis ,26,NaN,3,0.75,7,Management,3,Security,2,2,10,0,Yale Universtiy,2
-Boston's Children Hospital ,2,2009,1,3,DePaul University,230,"Computer, Information & Network Security",1,0.75,7,Information Security,2,Data Center,7,2,17,1,Yale Universtiy,2
+"University Hospital (Ann Arbor, Mich.) ",2,2021,1,5,Washington University in St. Louis ,26,NaN,3,0.75,7,Management,3,Security,2,2,10,0,Yale University,2
+Boston's Children Hospital ,2,2009,1,3,DePaul University,230,"Computer, Information & Network Security",1,0.75,7,Information Security,2,Data Center,7,2,17,1,Yale University,2
 Parkland Health and Hospital System ,2,1993,1,5,University of Dallas,232,Information Systems,1,0.75,7,PMP,7,Program Management,3,2,3,1,University of Virginia,2
 CommonSpirit Health ,1,1993,0,4,Louisiana State University,89,Business Administration,2,0.75,7,Risk Management,3,Governance,5,2,21,0,University of Kansas ,2
-Sanford Health,2,2015,1,6,Colorado State University,108,Information Technology Management,4,0.75,7,Databases,1,System Administration,5,2,25,1,University of Michigan,2
+Sanford Health,2,2015,1,6,Colorado State University,108,Information Technology Management,4,0.75,7,Databases,1,System Administration,5,2,25,1,"University of Michigan, Ann Arbor",2
 Miami Valley Hospital ,2,1989,1,10,University of Dayton,169,Business Administration,2,0.25,4,Security,2,Data Center,7,2,6,0,Miami University,2
 UAB Hospital ,2,1992,0,6,Auburn University,171,Computer Science,1,0.5,7,Information Security,2,Security,2,3,23,1,Auburn University,2
 Ohio State University Wexner Medical Center ,2,2001,1,8,University of Michigan,24,Computer Science,1,0.25,4,Information Security,2,Management,3,1,10,1,University of Michigan,2
@@ -38,4 +38,4 @@ Beaumont Hospital ,2,1990,0,12,University of Tulsa,136,Management Information Sy
 Huntsville Hopsital ,2,1990,1,7,Texas Christian University,83,Business Administration,2,0.5,6,Healthcare Information Technology,1,EHR,5,2,22,1,University of San Francisco,2
 Prisma Health Greenville Memorial Hospital ,2,2000,1,6,Capella University,304,Information Technology,1,0.75,7,Penetration Testing,7,Penetration Testing,7,2,3,0,Duke University,2
 Lehigh Valley Hospital ,2,1981,0,19,Boston College,124,Economics,3,1,8,NaN,7,NaN,7,2,17,1,Columbia University,2
-Elmhurts Hospital,1,2000,1,6,State University of New York at Albany,172,Public Administration,2,0.5,6,Healthcare Information Technology,1,EHR,5,2,5,0,Yale Universtiy,2
+Elmhurts Hospital,1,2000,1,6,State University of New York at Albany,172,Public Administration,2,0.5,6,Healthcare Information Technology,1,EHR,5,2,5,0,Yale University,2
