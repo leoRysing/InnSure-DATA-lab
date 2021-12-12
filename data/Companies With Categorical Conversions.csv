@@ -6,12 +6,12 @@ Tampa General Hospital,1,2010,0,8,University of Phoenix,361,Information Technolo
 NYU Langone Medical Center,1,2001,0,20,Columbia University,4,Electrical Engineering,1,0.25,3,Information Security,2,IT Strategy,1,2,20,1,Columbia University,1
 Orlando Health,1,1990,0,2,University of Illinois at Urbana-Champaign,47,Computer Science,1,0.5,6,IT Leadership,6,IT Strategy,1,2,19,0,George Washington University,1
 Beth Israel Lahey Health,1,2003,0,7,Rochester Institute of Technology,191,Information Technology,1,0.75,7,Network Security,2,Security,2,2,34,0,Yale University,1
-Bolton NHS Foundation Trust,0,2000,0,1,NaN,,NaN,3,0.25,3,Public Sector,3,Stakehodler Management,3,2,9,0,Manchester Metropolitan University,1
+Bolton NHS Foundation Trust,0,2000,0,1,NaN,400,NaN,3,0.25,3,Public Sector,3,Stakehodler Management,3,2,9,0,Manchester Metropolitan University,1
 Cook County Health,2,1992,0,5,Northwestern University ,17,"Finance, Marketing, Strategy",3,0.5,6,IT Strategy,1,Strategy,4,2,14,0,Northwestern University,1
 Good Smaritian Hospital,2,2000,0,6,Oakland City University,37,Management,2,1,8,Data Center,7,Process Improvement,4,2,31,0,Oakland City University,1
 Kaiser Permanente,1,2000,0,3,Berkeley College,32,Executive Leadership Program,2,0,4,Information Security,2,Security,2,1,8,0,"University of California, Los Angeles",1
 Medway NHS Foundation Trust,1,2012,0,4,Canterbury Christ Church University,109,Foudndation Degree,3,0.75,7,Project Management,3,Change Management,3,2,4,0,King's College London,1
-Sault Area Hospital,0,2000,0,15,NaN,,NaN,3,0.25,4,Financial Reporting,7,Internal Controls,3,2,15,0,McGill University,1
+Sault Area Hospital,0,2000,0,15,NaN,400,NaN,3,0.25,4,Financial Reporting,7,Internal Controls,3,2,15,0,McGill University,1
 Sutter Health,2,2002,1,11,Pepperdine University,68,"Business Administration and Management, General",2,0.75,7,Leadership,4,Management,3,2,11,0,"University of California, Berkeley",1
 Torrance Memorial Medical Center,1,2000,0,12,"California State University, Long Beach",127,Nursing,3,0.25,5,Healthcare Information Technology,1,EHR,5,2,12,0,Harvard University,1
 Mayo Clinic,2,2006,1,11,University of Chicago,6,Strategy and Financial Accounting,3,1,8,Information Security,2,Enterprise Architecture,3,2,11,1,University of Chicago,1
